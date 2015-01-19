@@ -1,0 +1,65 @@
+/*div text fromat*/
+div{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: white;
+	
+}
+p{
+	padding: 2px;
+	padding-left: 15px;
+}
+/*header color*/
+.header{
+	background-color: #CC7A00;
+	height: 20px;
+	padding: 50px;
+}
+/*sub div*/
+#sub{
+	display: inline-block;
+	float: center;
+	background-color: white;
+	color: black;
+	float: left;
+	left: 25%;
+	top: 10%;
+	position: relative;
+	padding: 5px;
+}
+/*blue color change*/
+#blue{
+	background-color: blue;
+}
+/*obj shape*/
+.obj{
+	height: 200px;
+	width: 200px;
+	margin: 25px ;
+	display: inline-block;
+	margin-left: 35px;
+
+}
+/*beveled div pink*/
+.gadget{
+	background-color: #FF00BF;
+	border-radius: 10%;
+
+}
+/*sqare div*/
+.widget{
+	background-color: #FF8000;
+
+}
+/*content color*/
+.content{
+	background-color: #8EA7F2;
+	height:500px;
+}
+
+
+/*footer color*/
+.footer{
+	background-color: #40FF00;
+	padding: 20px;
+	clear: both;
+}
